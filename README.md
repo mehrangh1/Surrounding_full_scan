@@ -1,5 +1,6 @@
 # Surrounding_full_scan
 Scans surrounding by using ultrasonic sensors 
+
 works well with crontab in case of continuous daily run
 
 attach the sensors on the top of the servos and make sure they rotate along
